@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0d3d85e-21c2-4a80-865d-0f33242b3d91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1efg62dAilzvkJMagGNOQjwYGMn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0d3d85e-21c2-4a80-865d-0f33242b3d91" name="Default Changelist" comment="" />
+      <created>1594717882921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594717882921</updated>
+      <workItem from="1594717884217" duration="925000" />
+      <workItem from="1594719427565" duration="4364000" />
+      <workItem from="1594774957514" duration="4266000" />
+      <workItem from="1594798170724" duration="1211000" />
+      <workItem from="1594803952979" duration="18000" />
+      <workItem from="1594806975179" duration="619000" />
+      <workItem from="1594862021633" duration="594000" />
+      <workItem from="1594863607783" duration="1633000" />
+      <workItem from="1594889658026" duration="111000" />
+      <workItem from="1594950044434" duration="1211000" />
+      <workItem from="1594954652792" duration="165000" />
+      <workItem from="1594954923512" duration="1527000" />
+      <workItem from="1594962467876" duration="589000" />
+      <workItem from="1598349477063" duration="3000" />
+      <workItem from="1600325037020" duration="2585000" />
+      <workItem from="1600675632630" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="842" y="381" key="#Notifications" timestamp="1594717899052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="381" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1594717899052" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1594774965436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594774965436" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1600328170272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1600328170272" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCase/test_jch.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,37 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "SCGLHT",
+    "children" : [ {
+      "name" : "Test_jiou",
+      "children" : [ {
+        "name" : "test_SCGL",
+        "uid" : "e7bf5b85a62b7dab",
+        "parentUid" : "1da3bd17c442ae61f6de6adff4965e7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598335902157,
+          "stop" : 1598335902158,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_SPGL_SPGL_01",
+        "uid" : "b6794ab0a41922b2",
+        "parentUid" : "1da3bd17c442ae61f6de6adff4965e7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598335902160,
+          "stop" : 1598335942496,
+          "duration" : 40336
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1da3bd17c442ae61f6de6adff4965e7b"
+    } ],
+    "uid" : "524d8972683b4a4b19338f26978a4a42"
+  } ]
+}

@@ -1,0 +1,92 @@
+{
+  "total" : 8,
+  "items" : [ {
+    "uid" : "a9837be23ef596b5d51b543d59057826",
+    "name" : "sm",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "3dc5adffebb12b7e1a1f113bcb065fec",
+    "name" : "查询认证信息",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "65a41f1626889a8ccd945e1b801c9280",
+    "name" : "查询认证信息_清除认证信息后",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "28c22b3009d8c630a253e20d35a3e121",
+    "name" : "身份证OCR(保存图片)",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "6cfe28ad24da985aa32f90265924ed64",
+    "name" : "身份证,银行卡实名认证",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "921071eb48b6a95d37ccdce3e1d7a67b",
+    "name" : "查询认证信息未发短信验证码",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "9f0afdf77c3628866626c7a04c4ec637",
+    "name" : "短信验证码发送",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "24592eec500e3ae60c970a9ecbb35324",
+    "name" : "短信验证码校验",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

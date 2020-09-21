@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_case.Test_SPGL#test_SPPP_222","804","商品管理-商品品牌-查询"
+"failed","test_case.Test_SPGL#test_SPPP_334","663","商品管理-商品品牌-删除"
+"passed","test_case.Test_SPGL#test_SPPP_02","335","商品管理-商品管理-查询"
+"passed","test_case.Test_SPGL#test_SPPP_211","753","商品管理-商品品牌-新增"

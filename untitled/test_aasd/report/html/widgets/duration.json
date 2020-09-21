@@ -1,0 +1,11 @@
+[ {
+  "uid" : "8167924c89f9741d",
+  "name" : "test_func",
+  "time" : {
+    "start" : 1594808117290,
+    "stop" : 1594808117292,
+    "duration" : 2
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+} ]

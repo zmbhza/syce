@@ -1,0 +1,22 @@
+{
+  "e9bc70882b84ef2fe0b7d3734abdae28" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8167924c89f9741d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 4 == 5\n +  where 4 = <bound method TestDome.func of <test_aasd.test_demo.TestDome object at 0x03753D90>>(3)\n +    where <bound method TestDome.func of <test_aasd.test_demo.TestDome object at 0x03753D90>> = <test_aasd.test_demo.TestDome object at 0x03753D90>.func",
+      "time" : {
+        "start" : 1594808117290,
+        "stop" : 1594808117292,
+        "duration" : 2
+      }
+    } ]
+  }
+}

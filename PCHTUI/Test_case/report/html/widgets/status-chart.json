@@ -1,0 +1,21 @@
+[ {
+  "uid" : "b6794ab0a41922b2",
+  "name" : "test_SPGL_SPGL_01",
+  "time" : {
+    "start" : 1598335902160,
+    "stop" : 1598335942496,
+    "duration" : 40336
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7bf5b85a62b7dab",
+  "name" : "test_SCGL",
+  "time" : {
+    "start" : 1598335902157,
+    "stop" : 1598335902158,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

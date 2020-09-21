@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_SCGL",
+    "uid" : "e7bf5b85a62b7dab",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598335902157,
+      "stop" : 1598335902158,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_SPGL_SPGL_01",
+    "uid" : "b6794ab0a41922b2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598335902160,
+      "stop" : 1598335942496,
+      "duration" : 40336
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

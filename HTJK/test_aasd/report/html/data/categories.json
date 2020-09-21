@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 4 == 5\n +  where 4 = <bound method TestDome.func of <test_aasd.test_demo.TestDome object at 0x03753D90>>(3)\n +    where <bound method TestDome.func of <test_aasd.test_demo.TestDome object at 0x03753D90>> = <test_aasd.test_demo.TestDome object at 0x03753D90>.func",
+      "children" : [ {
+        "name" : "test_func",
+        "uid" : "8167924c89f9741d",
+        "parentUid" : "237db08136525c798eba91119e86e6eb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1594808117290,
+          "stop" : 1594808117292,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "237db08136525c798eba91119e86e6eb"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

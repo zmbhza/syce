@@ -1,0 +1,38 @@
+"Status","Name","Duration in ms","Description"
+"passed","TestCase.test_smrz.test_real_name_status_01","874","
+    查询认证信息(已开户已绑卡用户)
+    :param login: 预制登录信息 获取授权token:
+    :return:
+    "
+"passed","TestCase.test_smrz.test_id_card_ocr_03","1961","
+    身份证OCR(保存图片)
+    :param login:
+    :return:
+    "
+"passed","TestCase.test_smrz.test_get_phone_check_code_06","2254","
+    短信验证码发送
+    :return:
+    "
+"passed","TestCase.test_smrz.test_real_name_status_change_02","2167","
+    查询认证信息_清除认证信息后(未开户未绑卡用户)
+    :param login: 预制登录信息 获取授权token:
+    :return:
+    "
+"passed","TestCase.test_smrz.test_verify_phone_check_code_07","294","
+    短信验证码校验
+    :return:
+    "
+"passed","TestCase.test_smrz.test_real_name_status_end_08","193","
+    查询认证信息(已开户已绑卡用户)
+    :param login: 预制登录信息 获取授权token:
+    :return:
+    "
+"passed","TestCase.test_smrz.test_real_name_verify_04","2809","
+    身份证,银行卡实名认证
+    :param login:
+    :return:
+    "
+"passed","TestCase.test_smrz.test_real_name_status_no_message_05","723","
+    查询认证信息(已开户已绑卡用户未发送短信)
+    :return:
+    "

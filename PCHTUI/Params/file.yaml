@@ -1,0 +1,138 @@
+#登录
+name : 登录
+账号输入框 : '//*[@id="app"]/div/div/div[2]/div[3]/div[1]/input'
+密码输入框 : '//*[@id="app"]/div/div/div[2]/div[3]/div[2]/input'
+登录按钮点击 : '//*[@id="app"]/div/div/div[2]/div[3]/button'
+---
+#商品品牌
+name : 商品品牌
+商品分页输入框 : '//*[@id="app"]/div/div[2]/div[2]/div/div[2]/ul/div/div[2]/input'
+点击商品管理目录 : '//*[@id="app"]/div/div[1]/div/ul/li[1]/div'
+点击商品管理按钮 : '//*[@id="app"]/div/div[1]/div/ul/li[1]/ul/li[1]'
+点击新增商品 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/a'
+点击一级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/div/div[1]/div/span'
+选择一级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/div/div[2]/ul[2]/li'
+点击二级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[2]/div/div[1]/div/span'
+选择二级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/ul[2]/li'
+点击三级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[3]/div/div[1]/div/span'
+选择三级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[3]/div/div[2]/ul[2]/li'
+品牌输入 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[1]/div[1]/div/div/form/input'
+型号 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[1]/div[2]/div/div/form/input'
+商品名称 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/input'
+包装规格1 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[3]/div/div/div/div/div[1]/div[2]/input'
+包装规格2点击 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[3]/div/div/div/div/div[2]/div[1]/div/input'
+包装规格2选择 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[3]/div/div/div/div/div[2]/div[2]/ul[2]/li'
+包装规则3点击 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[3]/div/div/div/div/div[3]/div[1]/div/input'
+包装规格3选择 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[3]/div/div/div/div/div[3]/div[2]/ul[2]/li'
+上传图片 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/ul[1]/li/div[2]/div/div/div/label'
+下一步 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[6]/button'
+扩展属性下一步 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[4]/span[2]'
+点击库存销售单位 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[3]/div[1]/div[2]/div/div[1]/div/span'
+选择库存销售单位 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[3]/div[1]/div[2]/div/div[2]/ul[2]/li'
+最小起订量 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[5]/table/tr[2]/td[5]/div/div[2]/input'
+发货省会点击 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[5]/table/tr[2]/td[6]/div[1]/div[1]/div/span'
+发货省会选择 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[5]/table/tr[2]/td[6]/div[1]/div[2]/ul[2]/li'
+发货城市点击 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[5]/table/tr[2]/td[6]/div[2]/div[1]/div/span'
+发货城市选择 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[5]/table/tr[2]/td[6]/div[2]/div[2]/ul[2]/li'
+是否含运费点击 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[5]/table/tr[2]/td[7]/div/div[1]/div/span'
+是否含运费选择 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[5]/table/tr[2]/td[7]/div/div[2]/ul[2]/li'
+是否支持账期支付点击 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[5]/table/tr[2]/td[8]/div/div[1]/div/span'
+是否支持账期支付选择 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[5]/table/tr[2]/td[8]/div/div[2]/ul[2]/li'
+发货时间 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[5]/table/tr[2]/td[9]/div/div[2]/input'
+销售属性下一步 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[6]/span[2]'
+零售价 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[4]/div/div[5]/table/tr[2]/td[3]/div/div[2]/input'
+促销价 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[4]/div/div[5]/table/tr[2]/td[4]/div/div[2]/input'
+批发商价 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[4]/div/div[5]/table/tr[2]/td[5]/div/div[2]/input'
+提交审核 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[4]/div/div[9]/span[2]'
+分割线1 : 创建商品结束↑
+
+分割线2 : 删除商品↓
+商品品牌输入框 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[1]/div[1]/div[2]/div/div/form/input'
+商品名称输入框 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div/div[1]/div[4]/div/div/div/input'
+查询按钮 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[2]/span[1]'
+未审核删除按钮 : '//*[@id="app"]/div/div[2]/div[2]/div/table/tr[2]/td[11]/a'
+审核删除按钮 :  '//*[@id="app"]/div/div[2]/div[2]/div/table/tr[2]/td[11]/a[3]'
+确认删除按钮 : '/html/body/div[30]/div[2]/div/div/div[3]/div/span[2]'
+取消删除按钮 : '/html/body/div[30]/div[2]/div/div/div[3]/div/span[1]'
+分割线3 : 删除商品结束↑
+
+分割线4 : 批量上下架↓
+查询点击一级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[1]/div[1]/div[1]/div/div/div[1]/div[1]/div/span'
+查询选择一级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[1]/div[1]/div[1]/div/div/div[1]/div[2]/ul[2]/li'
+查询点击二级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[1]/div[1]/div[1]/div/div/div[2]/div[1]/div/span'
+查询选择二级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[1]/div[1]/div[1]/div/div/div[2]/div[2]/ul[2]/li'
+查询点击三级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[1]/div[1]/div[1]/div/div/div[3]/div[1]/div/span'
+查询选择三级分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[1]/div[1]/div[1]/div/div/div[3]/div[2]/ul[2]/li'
+分割线5 : 批量上下架结束↑
+
+分割线6 : 导入批量修改↓
+导入批量修改 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span[3]'
+选择文件 : '/html/body/div[42]/div[2]/div/div/div[2]/div/div[2]/div[2]/button/input'
+选择文件确定 : '/html/body/div[42]/div[2]/div/div/div[3]/div/span'
+批量修改上传确定 : '/html/body/div[32]/div[2]/div/div/div[3]/div/span'
+
+分割线7 : 导入批量修改↑
+分割线8 : 导出
+导出按钮 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span[4]'
+分割线9  : 自定义显示列
+自定义显示列 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span[5]'
+自定义显示列确定 : '/html/body/div[39]/div[2]/div/div/div[3]/div/span[1]'
+自定义显示列重置 : '/html/body/div[39]/div[2]/div/div/div[3]/div/span[2]'
+自定义重置复选框全选 : '/html/body/div[39]/div[2]/div/div/div[2]/div/div[1]/label/span/input'   #''此处可以加循环来判断''
+自定义重置复选框商品名称 : '/html/body/div[39]/div[2]/div/div/div[2]/div/div[2]/label/span/input'#''此处可以加循环来判断''
+
+分割线10 : 编辑商品
+编辑按钮 : '//*[@id="app"]/div/div[2]/div[2]/div/table/tr[2]/td[11]/a[2]'
+编辑商品 : 基本信息
+bj商品名称 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div[2]/div/div[2]/div/input'
+包装规格1输入 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div[3]/div/div/div/div/div[1]/div[2]/input'
+bj包装规格2点击 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div[3]/div/div/div/div/div[2]/div[1]/div/input'
+bj包装规格2选择 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div[3]/div/div/div/div/div[2]/div[2]/ul[2]'
+bj包装规则3点击 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div[3]/div/div/div/div/div[3]/div[1]/div/input'
+bj包装规格3选择 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div[3]/div/div/div/div/div[3]/div[2]/ul[2]/li'
+新增包装规格 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div[3]/div/div/div/div/span'
+商品图片预览 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/ul[1]/li/div[2]/div/div[1]/div/div[1]/p/i[1]'
+商品图片预览关闭 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/ul[1]/li/div[2]/div/div[1]/div/div[2]/div[2]/div/div/a/i'
+商品图片删除 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/ul[1]/li/div[2]/div/div[1]/div/div[1]/p/i[2]'
+bj商品下一步 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div[6]/button'
+bj扩展属性下一步 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[4]/span[2]'
+bj销售属性下一步 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div[6]/span[2]'
+bj价格信息修改并更新 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[4]/div/div[8]/span[2]'
+
+分割线11 : 商品分类
+分类名称 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[1]/div/div/div/input'
+分类查询 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[2]/span[1]'
+分类重置 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[2]/span[2]'
+新增分类 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span[1]'
+新增一级分类选择 : '/html/body/div[55]/div[2]/div/div/div[2]/div/div[1]/div[2]/div/div[2]/ul[2]/li'
+新增二级分类选择 : '/html/body/div[55]/div[2]/div/div/div[2]/div/div[3]/div[2]/div/div[2]/ul[2]/li'
+新增二级分类输入框 : '/html/body/div[55]/div[2]/div/div/div[2]/div/div[3]/div[2]/div/input'
+新增三级分类输入框 : '/html/body/div[55]/div[2]/div/div/div[2]/div/div[4]/div[2]/div/input'
+上移 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span[2]'
+下移 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span[3]'
+商品分类编辑 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span[4]'
+商品分类删除 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span[5]'
+
+分割线12 : 商品品牌
+品牌名称输入框 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[1]/div/div/div/input'
+商品品牌新增品牌 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span[1]'
+商品品牌自定义显示列 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[1]/span[2]'
+商品品牌查询  : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[2]/span[1]'
+商品品牌重置 : '//*[@id="app"]/div/div[2]/div[2]/div/div[1]/div/div[2]/div[2]/span[2]'
+新增品牌输入框 : '/html/body/div[59]/div[2]/div/div/div[2]/div/div[1]/div/div[2]/div/input'
+新增品牌上传图片 : '/html/body/div[59]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div'
+新增品牌确定 : '/html/body/div[59]/div[2]/div/div/div[3]/div/span[2]'
+商品品牌编辑 : '//*[@id="app"]/div/div[2]/div[2]/div/table/tr[2]/td[5]/a[1]'
+商品品牌删除按钮 : '//*[@id="app"]/div/div[2]/div[2]/div/table/tr[2]/td[5]/a[2]'
+BJ品牌名称 : '/html/body/div[69]/div[2]/div/div/div[2]/div/div[1]/div/div[2]/div/input'
+BJ品牌LOGO删除 : '/html/body/div[69]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/div[1]/div/i[2]'
+BJ品牌logo上传 : '/html/body/div[69]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div'
+BJ品牌确定按钮 : '/html/body/div[69]/div[2]/div/div/div[3]/div/span[2]'
+
+分割线13 : 商品审核
+审核按钮 : '//*[@id="app"]/div/div[2]/div[2]/div/table/tr[2]/td[8]/a'
+价格信息 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[1]/div/div/div/div/div[5]'
+审核通过 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[4]/div/div[7]/span[2]'
+审核不通过 : '//*[@id="app"]/div/div[2]/div[2]/div/div/div[2]/div[4]/div/div[7]/span[1]'
+
+分割线14 : 商品资源池

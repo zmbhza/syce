@@ -1,0 +1,105 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestCase",
+    "children" : [ {
+      "name" : "test_smrz.test_real_name_status_01",
+      "uid" : "2a030ee33b27ae2e",
+      "parentUid" : "ee79ae265a842e48c4df30f006daaf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567643652459,
+        "stop" : 1567643653333,
+        "duration" : 874
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_smrz.test_real_name_status_change_02",
+      "uid" : "2cd896f20cf91630",
+      "parentUid" : "ee79ae265a842e48c4df30f006daaf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567643653335,
+        "stop" : 1567643655502,
+        "duration" : 2167
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_smrz.test_id_card_ocr_03",
+      "uid" : "bcb85ec17eb10c56",
+      "parentUid" : "ee79ae265a842e48c4df30f006daaf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567643655503,
+        "stop" : 1567643657464,
+        "duration" : 1961
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_smrz.test_real_name_verify_04",
+      "uid" : "d14a72075cd5b5fa",
+      "parentUid" : "ee79ae265a842e48c4df30f006daaf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567643657465,
+        "stop" : 1567643660274,
+        "duration" : 2809
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_smrz.test_real_name_status_no_message_05",
+      "uid" : "cc7555ad5ae171d2",
+      "parentUid" : "ee79ae265a842e48c4df30f006daaf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567643660275,
+        "stop" : 1567643660998,
+        "duration" : 723
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_smrz.test_get_phone_check_code_06",
+      "uid" : "aee2b33394b9822f",
+      "parentUid" : "ee79ae265a842e48c4df30f006daaf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567643660999,
+        "stop" : 1567643663253,
+        "duration" : 2254
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_smrz.test_verify_phone_check_code_07",
+      "uid" : "a8f9c0d6598ee11c",
+      "parentUid" : "ee79ae265a842e48c4df30f006daaf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567643663256,
+        "stop" : 1567643663550,
+        "duration" : 294
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_smrz.test_real_name_status_end_08",
+      "uid" : "dd7693b570d33efd",
+      "parentUid" : "ee79ae265a842e48c4df30f006daaf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567643663552,
+        "stop" : 1567643663745,
+        "duration" : 193
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ee79ae265a842e48c4df30f006daaf4e"
+  } ]
+}

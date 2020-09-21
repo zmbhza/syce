@@ -1,0 +1,90 @@
+{
+  "uid" : "e5ed8ca31dc1b975",
+  "name" : "test_SPPP_334",
+  "fullName" : "test_case.Test_SPGL#test_SPPP_334",
+  "historyId" : "3b53f73d8ce5cc624c9cf45a88707e17",
+  "time" : {
+    "start" : 1595232366266,
+    "stop" : 1595232366929,
+    "duration" : 663
+  },
+  "description" : "商品管理-商品品牌-删除",
+  "descriptionHtml" : "<p>商品管理-商品品牌-删除</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "self = <Testcase.test_case.Test_SPGL object at 0x032C50D0>\n\n    def test_SPPP_334(self):\n        \"\"\"商品管理-商品品牌-删除\"\"\"\n        p.T(0.5)\n        name = p.get_value('SPPP_SC')\n        url = name['url']\n        payload = {\"id\":bb}\n        re = requests.request(\"POST\", url, headers=headers, data = json.dumps(payload))\n>       p.msg(re,'删')\n\ntest_case.py:62: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n..\\..\\params\\params.py:54: in msg\n    ass.assert_2(msg)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nc = '删除成功'\n\n    def assert_2(c):\n>           assert c == '删除成a功'\nE           AssertionError\n\n..\\..\\params\\assert_HT.py:6: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1595232364092,
+      "stop" : 1595232364364,
+      "duration" : 272
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1595232367900,
+      "stop" : 1595232367900,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_SPGL"
+  }, {
+    "name" : "host",
+    "value" : "zhao-PC"
+  }, {
+    "name" : "thread",
+    "value" : "11060-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e5ed8ca31dc1b975.json",
+  "parameterValues" : [ ]
+}

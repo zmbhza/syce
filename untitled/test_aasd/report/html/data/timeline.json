@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "zhao-PC",
+    "children" : [ {
+      "name" : "6064-MainThread",
+      "children" : [ {
+        "name" : "test_func",
+        "uid" : "8167924c89f9741d",
+        "parentUid" : "f99f896fe2dcd5502e4bd44b4bff484d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1594808117290,
+          "stop" : 1594808117292,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f99f896fe2dcd5502e4bd44b4bff484d"
+    } ],
+    "uid" : "704c8e6203eed8e73a1662f6ffda6a10"
+  } ]
+}

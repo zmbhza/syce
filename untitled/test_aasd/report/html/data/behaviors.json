@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试Dome",
+    "children" : [ {
+      "name" : "被测场景",
+      "children" : [ {
+        "name" : "test_func",
+        "uid" : "8167924c89f9741d",
+        "parentUid" : "761c570dd57e92e8aee159b30d43f4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1594808117290,
+          "stop" : 1594808117292,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "761c570dd57e92e8aee159b30d43f4ca"
+    } ],
+    "uid" : "86ec50624e62437339bc836b0b62d379"
+  } ]
+}
